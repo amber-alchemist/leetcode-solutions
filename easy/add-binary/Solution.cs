@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/add-binary
-// #biwise_operations
+// #bitwise_operations
 public class Solution
 {
 	public string AddBinary(string first, string second)

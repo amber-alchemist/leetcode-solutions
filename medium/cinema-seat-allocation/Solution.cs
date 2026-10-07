@@ -1,5 +1,5 @@
 ﻿// https://leetcode.com/problems/cinema-seat-allocation
-// #biwise_operations #hash_table
+// #bitwise_operations #hash_table
 public class Solution
 {
 	public int MaxNumberOfFamilies(int n, int[][] reservedSeats)

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
-// #biwise_operations
+// #bitwise_operations
 public class Solution
 {
 	public int[] FindThePrefixCommonArray(int[] a, int[] b)

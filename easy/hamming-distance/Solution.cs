@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/hamming-distance
-// #biwise_operations
+// #bitwise_operations
 public class Solution
 {
 	public int HammingDistance(int x, int y)
